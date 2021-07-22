@@ -84,7 +84,7 @@
         android:id="@+id/titulo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#05000000"
+        android:background="#3C3F41"
         android:backgroundTint="#FAF8F8"
         android:text="Cadastro Firebase"
         android:textColor="#090909"
